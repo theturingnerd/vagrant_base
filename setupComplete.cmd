@@ -1,0 +1,1 @@
+@powershell.exe -NonInteractive -ExecutionPolicy Bypass -NoProfile -File "c:\vagrant_base\SetupComplete.ps1"
